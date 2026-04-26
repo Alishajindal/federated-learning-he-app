@@ -1,0 +1,11 @@
+altair
+pandas
+streamlit
+torch
+torchvision
+numpy
+Pillow
+matplotlib
+medmnist
+timm
+seaborn
